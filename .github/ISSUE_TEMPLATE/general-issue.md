@@ -2,7 +2,7 @@
 name: General Issue
 about: A clear and concise description of the issue.
 title: ''
-labels: ''
+labels: General Issue
 assignees: ''
 
 ---
